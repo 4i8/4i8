@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://i.ibb.co/W5GJzzG/ezgif-4-1c34fcefff.gif" width="100"/>
+  <img src="https://i.ibb.co/W5GJzzG/ezgif-4-1c34fcefff.gif" width="200"/>
+	<h5> Magic of the Joker🎩🃏</h5>
   <div id="badges">
 <a href="https://discord.com/users/599882913064026153#804291489319616512">
     <img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
@@ -14,8 +15,8 @@
 </div>
 - Full Stack Developer⚡️<br>
 - Publish my ideas in OpenSource projects😌<br>
-- Focus on the Nodejs community<br>
-- Open-source work<br>
+- Focus on Nodejs community🧐<br>
+- Open-source work😎<br>
 
 ## Skills and Technologies
 
