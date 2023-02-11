@@ -1,11 +1,14 @@
 <div id="header" align="center">
   <img src="https://i.ibb.co/W5GJzzG/ezgif-4-1c34fcefff.gif" width="100"/>
   <div id="badges">
+<a href="https://discord.com/users/599882913064026153#804291489319616512">
+    <img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
+  </a>
   <a href="[your-linkedin-URL](https://www.npmjs.com/~iarth)">
     <img src="https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm&logoColor=white" alt="Npm"/>
   </a>
   <a href="https://twitter.com/onlyarth">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
 </div>
@@ -76,9 +79,6 @@
    &nbsp;
 
  ### Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4i8&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4i8&layout=compact&theme=transparent&hide_border=true)](https://github.com/4i8/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4i8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![4i8's GitHub stats](https://github-readme-stats.vercel.app/api?username=4i8)](https://github.com/4i8/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4i8&show_icons=true&bg_color=00000000&hide_border=true#gh-dark-mode-only&theme=onedark)
