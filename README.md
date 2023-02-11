@@ -8,5 +8,5 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
-  Full Stack Developer I publish my ideas in OpenSource projects I focus on the Nodejs community Take a look @blinet 😌⚡️⏳️open-source work
+  Full Stack Developer I publish my ideas in OpenSource projects I focus on the Nodejs community 😌⚡️⏳️open-source work
 </div>
