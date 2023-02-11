@@ -3,7 +3,7 @@
 </div>
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.npmjs.com/~iarth)">
-    <img src="https://img.shields.io/badge/npm?style=for-the-badge&logo=linkedin&logoColor=white" alt="Npm"/>
+    <img src="https://img.shields.io/badge/npm?style=for-the-badge&logo=npm&logoColor=white" alt="Npm"/>
   </a>
   <a href="https://twitter.com/onlyarth">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
