@@ -77,4 +77,8 @@
 
  ### Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4i8&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4i8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![4i8's GitHub stats](https://github-readme-stats.vercel.app/api?username=4i8)](https://github.com/4i8/github-readme-stats)
+
