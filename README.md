@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://i.ibb.co/W5GJzzG/ezgif-4-1c34fcefff.gif" width="200"/>
-	<h5> Magic of the Joker🎩🃏</h5>
+	<h5> M<strong>a</strong>gic of <strong>th</strong>e Joke<strong>r</strong>🎩🃏</h5>
   <div id="badges">
 <a href="https://discord.com/users/599882913064026153#804291489319616512">
     <img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
