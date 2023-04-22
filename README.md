@@ -16,7 +16,7 @@
 - Full Stack Developer⚡️<br>
 - Publish my ideas in OpenSource projects😌<br>
 - Focus on Nodejs community🧐<br>
-- Open-source work😎<br>
+- Open-source work🪄<br>
 
 ## Skills and Technologies
 
