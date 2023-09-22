@@ -8,7 +8,7 @@
   <a href="[your-linkedin-URL](https://www.npmjs.com/~iarth)">
     <img src="https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm&logoColor=white" alt="Npm"/>
   </a>
-  <a href="https://twitter.com/onlyarth">
+  <a href="https://twitter.com/rrarth">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
