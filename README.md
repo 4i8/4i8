@@ -15,7 +15,7 @@
 </div>
 
 ##
-
+`Arth.sh`
  ```bash
 #!/bin/bash
 binary_string="01000011 01101111 01100100 01100101 00100000 01101001 01110011 00100000 01110100 01101000 01100101 00100000 01100011 01101001 01100111 01100001 01110010 01100101 01110100 01110100 01100101 00100000 01110100 01101000 01100001 01110100 00100000 01101110 01100101 01110110 01100101 01110010 00100000 01101100 01100101 01100001 01110110 01100101 01110011 00100000 01101101 01111001 00100000 01101000 01100001 01101110 01100100 "
@@ -36,8 +36,23 @@ done
 # Print
 echo -e "\"$text🚬\"\n- Arth\n"
 ```
+
+##
+
+<p><strong>RUN</strong></p>
+
+```bash
+bash Arth.sh
+```
+
+##
+
 <p><strong>OUTPUT</strong></p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=20&multiline=true&repeat=false&width=715&height=100&lines=+;Code+is+the+cigarette+that+never+leaves+my+hand%F0%9F%9A%AC;-+Arth" alt="Typing SVG" />
+
+```
+Code is the cigarette that never leaves my hand🚬
+- Arth
+```
 
 ##
 
