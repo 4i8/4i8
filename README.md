@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <img src="https://i.ibb.co/W5GJzzG/ezgif-4-1c34fcefff.gif" width="200"/>
+  <img src=https://github.com/4i8/4i8/assets/76555623/69991054-bad8-425d-b85a-471ecc351209" width="200"/>
 	<p> M<strong>a</strong>gic of <strong>th</strong>e Joke<strong>r</strong>🎩🃏</p>
   <div id="badges">
 <a href="https://discord.com/users/599882913064026153#804291489319616512">
     <img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
   </a>
-  <a href="[your-linkedin-URL](https://www.npmjs.com/~iarth)">
+  <a href="https://www.npmjs.com/~iarth">
     <img src="https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm&logoColor=white" alt="Npm"/>
   </a>
   <a href="https://twitter.com/rrarth">
