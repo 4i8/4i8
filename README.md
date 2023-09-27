@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://i.ibb.co/W5GJzzG/ezgif-4-1c34fcefff.gif" width="200"/>
-	<h5> M<strong>a</strong>gic of <strong>th</strong>e Joke<strong>r</strong>🎩🃏</h5>
+	<p> M<strong>a</strong>gic of <strong>th</strong>e Joke<strong>r</strong>🎩🃏</p>
   <div id="badges">
 <a href="https://discord.com/users/599882913064026153#804291489319616512">
     <img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
@@ -13,70 +13,31 @@
   </a>
 </div>
 </div>
-- Full Stack Developer⚡️<br>
-- Publish my ideas in OpenSource projects😌<br>
-- Focus on Nodejs community🧐<br>
-- Open-source work🪄<br>
 
-## Skills and Technologies
+ ```bash
+#!/bin/bash
+binary_string="01000011 01101111 01100100 01100101 00100000 01101001 01110011 00100000 01110100 01101000 01100101 00100000 01100011 01101001 01100111 01100001 01110010 01100101 01110100 01110100 01100101 00100000 01110100 01101000 01100001 01110100 00100000 01101110 01100101 01110110 01100101 01110010 00100000 01101100 01100101 01100001 01110110 01100101 01110011 00100000 01101101 01111001 00100000 01101000 01100001 01101110 01100100 "
 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>
-	  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-       &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite" width="40" height="40"/>
-   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
-   &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rust/rust-plain.svg" title="rust" alt="rust" width="40" height="40"/>
-      &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg" title="express" alt="express" width="40" height="40"/>
-   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/socketio/socketio-original-wordmark.svg" title="socketio" alt="socketio" width="40" height="40"/>
-     &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>
-   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/denojs/denojs-original-wordmark.svg" title="denojs" alt="denojs" width="40" height="40"/>
-     &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-plain-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>
-   &nbsp;
-     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/discordjs/discordjs-original.svg" title="discordjs" alt="discordjs" width="40" height="40"/>
-	    &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-plain-wordmark.svg" title="jquery" alt="jquery" width="40" height="40"/>
-   &nbsp;
-     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>
-   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>
-   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>
-   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>
-   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/chrome/chrome-original-wordmark.svg" title="chrome" alt="chrome" width="40" height="40"/>
-   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>
-   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>
-   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/putty/putty-original.svg" title="putty" alt="putty" width="40" height="40"/>
-    &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>
-   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/windows8/windows8-original.svg" title="windows" alt="windows" width="40" height="40"/>
-   &nbsp;
+# Split the binary string into an array
+binary_array=($binary_string)
 
- ### Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4i8&layout=compact&theme=transparent&hide_border=true)](https://github.com/4i8/github-readme-stats)
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4i8&show_icons=true&bg_color=00000000&hide_border=true#gh-dark-mode-only&theme=onedark)
+# Initialize an empty variable for the text
+text=""
+
+# Iterate through the binary values and convert to text
+for binary_value in "${binary_array[@]}"; do
+    # Convert binary to decimal and then to ASCII character
+    decimal_value=$((2#$binary_value))
+    text+=$(printf "\\$(printf '%03o' "$decimal_value")")
+done
+
+# Print
+echo -e "\"$text🚬\"\n- Arth\n"
+```
+<p><strong>OUTPUT</strong></p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10&multiline=true&repeat=false&width=715&lines="Code+is+the+cigarette+that+never+leaves+my+hand%F0%9F%9A%AC";-+Arth)](https://git.io/typing-svg)
+##
+<p><strong>SKILLS</strong></p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,py,rust,ts,nodejs,deno,regex,electron,express,graphql,jquery,react,redux,nextjs,sass,bootstrap,materialui,tailwind,mongodb,mysql,postgres,sqlite,prisma,linux,bash,nginx,docker,git,github,postman,neovim,vscode,gcp)](https://skillicons.dev)
