@@ -14,6 +14,8 @@
 </div>
 </div>
 
+##
+
  ```bash
 #!/bin/bash
 binary_string="01000011 01101111 01100100 01100101 00100000 01101001 01110011 00100000 01110100 01101000 01100101 00100000 01100011 01101001 01100111 01100001 01110010 01100101 01110100 01110100 01100101 00100000 01110100 01101000 01100001 01110100 00100000 01101110 01100101 01110110 01100101 01110010 00100000 01101100 01100101 01100001 01110110 01100101 01110011 00100000 01101101 01111001 00100000 01101000 01100001 01101110 01100100 "
@@ -35,8 +37,10 @@ done
 echo -e "\"$text🚬\"\n- Arth\n"
 ```
 <p><strong>OUTPUT</strong></p>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=10&multiline=true&width=715&lines=%22Code+is+the+cigarette+that+never+leaves+my+hand%F0%9F%9A%AC%22;-+Arth" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=20&multiline=true&repeat=false&width=715&height=100&lines=+;Code+is+the+cigarette+that+never+leaves+my+hand%F0%9F%9A%AC;-+Arth" alt="Typing SVG" />
+
 ##
+
 <p><strong>SKILLS</strong></p>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,py,rust,ts,nodejs,deno,regex,electron,express,graphql,jquery,react,redux,nextjs,sass,bootstrap,materialui,tailwind,mongodb,mysql,postgres,sqlite,prisma,linux,bash,nginx,docker,git,github,postman,neovim,vscode,gcp)](https://skillicons.dev)
