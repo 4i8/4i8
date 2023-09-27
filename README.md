@@ -5,7 +5,7 @@
 <a href="https://discord.com/users/599882913064026153#804291489319616512">
     <img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
   </a>
-    <a href="https://www.buymeacoffee.com/iiarth">
+    <a href="https://www.buymeacoffee.com/iarth">
     <img src="https://img.shields.io/badge/buymeacoffee-black?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="buymeacoffee"/>
   </a>
   <a href="https://www.npmjs.com/~iarth">
