@@ -22,7 +22,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,py,rust,ts,nodejs,deno,regex,electron,express,graphql,jquery,react,redux,nextjs,sass,bootstrap,materialui,tailwind,mongodb,mysql,postgres,sqlite,prisma,linux,bash,nginx,docker,git,github,postman,neovim,vscode,gcp)](https://skillicons.dev)
 
 ##
-`Arth.sh`
  ```bash
 #!/bin/bash
 binary_string="01000011 01101111 01100100 01100101 00100000 01101001 01110011 00100000 01110100 01101000 01100101 00100000 01100011 01101001 01100111 01100001 01110010 01100101 01110100 01110100 01100101 00100000 01110100 01101000 01100001 01110100 00100000 01101110 01100101 01110110 01100101 01110010 00100000 01101100 01100101 01100001 01110110 01100101 01110011 00100000 01101101 01111001 00100000 01101000 01100001 01101110 01100100 "
@@ -42,14 +41,6 @@ done
 
 # Print
 echo -e "\"$text🚬\"\n- Arth\n"
-```
-
-##
-
-<p><strong>RUN</strong></p>
-
-```bash
-bash Arth.sh
 ```
 
 ##
