@@ -14,6 +14,10 @@
 </div>
 </div>
 
+<p><strong>SKILLS</strong></p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,py,rust,ts,nodejs,deno,regex,electron,express,graphql,jquery,react,redux,nextjs,sass,bootstrap,materialui,tailwind,mongodb,mysql,postgres,sqlite,prisma,linux,bash,nginx,docker,git,github,postman,neovim,vscode,gcp)](https://skillicons.dev)
+
 ##
 `Arth.sh`
  ```bash
@@ -53,9 +57,3 @@ bash Arth.sh
 Code is the cigarette that never leaves my hand🚬
 - Arth
 ```
-
-##
-
-<p><strong>SKILLS</strong></p>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,py,rust,ts,nodejs,deno,regex,electron,express,graphql,jquery,react,redux,nextjs,sass,bootstrap,materialui,tailwind,mongodb,mysql,postgres,sqlite,prisma,linux,bash,nginx,docker,git,github,postman,neovim,vscode,gcp)](https://skillicons.dev)
