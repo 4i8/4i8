@@ -35,8 +35,7 @@ done
 echo -e "\"$text🚬\"\n- Arth\n"
 ```
 <p><strong>OUTPUT</strong></p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10&multiline=true&repeat=false&width=715&lines="Code+is+the+cigarette+that+never+leaves+my+hand%F0%9F%9A%AC";-+Arth)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=10&multiline=true&repeat=false&width=715&lines=%22Code+is+the+cigarette+that+never+leaves+my+hand%F0%9F%9A%AC%22;-+Arth" alt="Typing SVG" />
 ##
 <p><strong>SKILLS</strong></p>
 
